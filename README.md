@@ -21,6 +21,7 @@
 Built from the official WordPress documentation, modern PHP resources, development best practices, and hundreds of interview questions.
 
 Designed for offline reading, long-term reference, and AI-assisted learning with Google NotebookLM.
+I also included 2 existing PHP books I deem valueable for back-end Wordpress development (not written by me).
 
 </p>
 
